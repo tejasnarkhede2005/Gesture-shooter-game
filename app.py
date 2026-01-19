@@ -4,6 +4,7 @@ import cv2
 import random
 import time
 
+
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="Gesture Shooter Game",
