@@ -1,5 +1,10 @@
+import sys
 import streamlit as st
+
+st.write(sys.version)
 from game import run_game
+
+
 
 st.set_page_config(page_title="Gesture Shooter Game", layout="wide")
 
